@@ -1,0 +1,96 @@
+.elementor-1627 .elementor-element.elementor-element-1bdda91b > .elementor-container{min-height:400px;}.elementor-1627 .elementor-element.elementor-element-1bdda91b:not(.elementor-motion-effects-element-type-background), .elementor-1627 .elementor-element.elementor-element-1bdda91b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F1F1F1;background-image:url("../../2023/10/newsevents-rcis-banner-1920x600-1.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1627 .elementor-element.elementor-element-1bdda91b{box-shadow:0px 5px 10px 0px rgba(0, 0, 0, 0.3);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;z-index:2;}.elementor-1627 .elementor-element.elementor-element-1bdda91b > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1627 .elementor-element.elementor-element-5be9c153:not(.elementor-motion-effects-element-type-background), .elementor-1627 .elementor-element.elementor-element-5be9c153 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-70406a1 );}.elementor-1627 .elementor-element.elementor-element-5be9c153{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-1627 .elementor-element.elementor-element-5be9c153 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1627 .elementor-element.elementor-element-6828753f{font-family:"Azosans", Sans-serif;font-size:18px;font-weight:400;color:var( --e-global-color-93ef499 );}.elementor-1627 .elementor-element.elementor-element-6828753f a{color:var( --e-global-color-93ef499 );}.elementor-1627 .elementor-element.elementor-element-4bc0263a{padding:60px 20px 60px 20px;}.elementor-1627 .elementor-element.elementor-element-29c84853 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-1627 .elementor-element.elementor-element-6756b468 .elementor-heading-title{font-family:"Azosans", Sans-serif;font-size:44px;font-weight:300;text-transform:uppercase;}.elementor-1627 .elementor-element.elementor-element-6756b468 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-1627 .elementor-element.elementor-element-3579733 .elementor-wrapper{--video-aspect-ratio:1.77777;}.elementor-1627 .elementor-element.elementor-element-7926fe1{text-align:center;font-family:"Azosans", Sans-serif;font-size:22px;font-weight:700;}.elementor-1627 .elementor-element.elementor-element-7926fe1 > .elementor-widget-container{padding:20px 0px 0px 0px;}@media(max-width:1440px){.elementor-1627 .elementor-element.elementor-element-6756b468 .elementor-heading-title{font-size:38px;}}@media(max-width:1024px) and (min-width:768px){.elementor-1627 .elementor-element.elementor-element-29c84853{width:100%;}}@media(max-width:1024px){.elementor-1627 .elementor-element.elementor-element-29c84853 > .elementor-element-populated{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-1627 .elementor-element.elementor-element-1bdda91b > .elementor-container{min-height:100vw;}.elementor-1627 .elementor-element.elementor-element-1bdda91b:not(.elementor-motion-effects-element-type-background), .elementor-1627 .elementor-element.elementor-element-1bdda91b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/10/newsevents-rcis-banner-414x414-1.jpg");}.elementor-1627 .elementor-element.elementor-element-6828753f{font-size:15px;}.elementor-1627 .elementor-element.elementor-element-6756b468 .elementor-heading-title{font-size:28px;}}/* Start custom CSS for heading, class: .elementor-element-6756b468 */.elementor-1627 .elementor-element.elementor-element-6756b468 b {
+    font-weight: 800;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Black.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-Black.woff') format('woff'),
+		url('../../2023/09/AzoSans-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-BlackItalic.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-BlackItalic.woff') format('woff'),
+		url('../../2023/09/AzoSans-BlackItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Bold.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-Bold.woff') format('woff'),
+		url('../../2023/09/AzoSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-BoldItalic.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-BoldItalic.woff') format('woff'),
+		url('../../2023/09/AzoSans-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Italic.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-Italic.woff') format('woff'),
+		url('../../2023/09/AzoSans-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Light.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-Light.woff') format('woff'),
+		url('../../2023/09/AzoSans-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Medium.woff') format('woff'),
+		url('../../2023/09/AzoSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Regular.woff2') format('woff2'),
+		url('../../2023/09/AzoSans-Regular.woff') format('woff'),
+		url('../../2023/09/AzoSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-Thin.woff') format('woff');
+}
+@font-face {
+	font-family: 'Azosans';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2023/09/AzoSans-ThinItalic.woff') format('woff');
+}
+/* End Custom Fonts CSS */
